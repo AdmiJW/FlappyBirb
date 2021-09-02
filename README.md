@@ -15,6 +15,12 @@ Wait for the game screen to load up (takes a while, but it works)
 
 ---
 
+#### Diagram
+
+![UML and State Diagram](./assets/UML%20Diagram.png)
+
+---
+
 #### Notes
 
 * Images are retrieved from online sources
